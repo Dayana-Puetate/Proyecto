@@ -9,8 +9,10 @@
  * @author dell
  */
 public class Operacion {
-public float Resta(float num1, float num2){
-        float resultado = num1 - num2;
+
+    public float Suma(float num1, float num2) {
+        float resultado = num1 + num2;
         return resultado;
     }
+
 }
